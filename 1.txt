@@ -1,3 +1,5 @@
 Second File
 Document 1 under master.
-This file now is modified in SecondA branch.
+This file now is modified in SecondA branch. 
+1.txt has modified details that done in SecondA because master is merged with SecondA.//This sentences won't
+show in SecondA 1.txt.
