@@ -3,3 +3,6 @@ Document 1 under master.
 This file now is modified in SecondA branch. 
 1.txt has modified details that done in SecondA because master is merged with SecondA.//This sentences won't
 show in SecondA 1.txt.//Now showed in SecondA 1.txt because SecondA merge with master again.
+
+//C has everythings in master and SecondA now because it is created after all these file commit or added in.
+//This two line wont be shown in master and SecondA 1.txt.
