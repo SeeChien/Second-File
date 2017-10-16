@@ -1,0 +1,3 @@
+Second File
+This file is added in Master.
+SecondA will get this file from master during after merged.
