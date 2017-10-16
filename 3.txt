@@ -1,2 +1,4 @@
 Second File
 This file is addded in SecondB only.
+This file already exist in Master because rebase head to.
+Now is edited in SecondB.
