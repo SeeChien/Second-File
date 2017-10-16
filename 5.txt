@@ -1,0 +1,5 @@
+Second File
+This is second file that added in master.
+This file will only appear in master.
+It won't appear in SecondA until I merge them.
+This file is added before merging.
