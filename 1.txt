@@ -1,2 +1,3 @@
 Second File
 Document 1 under master.
+This file now is modified in SecondA branch.
